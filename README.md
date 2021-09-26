@@ -1,9 +1,6 @@
 <h1>Heil Hitler</h1>
 
-
-
-
-<p>#-卐 卍 I’m currently working on: propaganda</p>
+<p style="color=black;">卐</p><p> I’m currently working on: propaganda</p> 
 <p>#-卐 卍 I’m currently learning: geography</p>
 <p>#-卐 卍 I’m looking to collaborate on: isis</p>
 <p>#-卐 卍 I’m looking for help with: isis</p>
