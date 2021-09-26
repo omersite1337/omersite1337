@@ -10,4 +10,4 @@
 <p>#-卐 卍 Ask me about: isis</p>
 <p>#-卐 卍 How to reach me: very easy isis</p>
 <p>#-卐 卍Pronouns: Male</p>
-<p>#-卐 卍Fun fact: Allah is only true god</p>
+<p>#-卐 卍Fun fact: Allah is only true god ☪☪☪</p>
